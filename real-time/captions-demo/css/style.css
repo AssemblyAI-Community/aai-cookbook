@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+header {
+  background-color: #09032F;
+  color: white;
+  font-family: Rubik, sans-serif;
+  padding: 10px;
+  padding-bottom: 25px;
+  margin-bottom: 40px;
+}
+
+#header-logo {
+  display: block;
+}
+
+#demo-title {
+  font-size: 40px;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#demo-subtitle {
+  font-size: 18px;
+  font-weight: 300;
+  text-align: center;
+}
+
+#video {
+  text-align: center;
+}
+
