@@ -5,48 +5,31 @@ You will need an AssemblyAI account and API key to use these code examples. [Cli
 
 Most code examples are written in Python or Javascript, but the concepts contained in these examples can be applied to any language. You can learn more about our various models in features in our [official documentation](https://www.assemblyai.com/docs/).
 
-## Popular resources 🎊🔥
-[Transcribing from a meeting Zoom/teams/Google Meet](https://www.assemblyai.com/blog/how-to-automatically-transcribe-zoom-calls/)  
-[Transcribe Twilio Calls](https://www.assemblyai.com/blog/transcribe-twilio-phone-calls-in-real-time-with-assemblyai/)  
-
-
-## Get started with us 🎬
-[Python SDK Repo](https://github.com/AssemblyAI/assemblyai-python-sdk)  
-[CLI Repo](https://github.com/AssemblyAI/assemblyai-cli/)  
-[Using our API with Postman](https://www.assemblyai.com/blog/speedy-code-free-speech-to-text-with-assemblyai-and-postman/)  
-[Experiment with our API in the Playground](https://www.assemblyai.com/playground)  
-[Read about the API in the AssemblyAI Documentation](https://www.assemblyai.com/docs/)  
-
-## Basic Transcriptions 🐣
-[Python Guide](core-transcription/assemblyai-and-python-in-5-minutes)  
-[JavaScript Guide](https://www.assemblyai.com/blog/getting-started-with-speech-to-text-transcriptions-with-assemblyai-javascript-and-node-js/)  
-
 ## Core Transcription 🎙️
-[Transcribe from an AWS S3 bucket](core-transcription/transcribe-from-s3-bucket)  
+[AssemblyAI and Python in 5 Minutes](core-transcription/assemblyai-and-python-in-5-minutes)
+[Transcribe from an AWS S3 Bucket](core-transcription/transcribe-from-s3-bucket)  
 [Speaker Diarization](core-transcription/speaker-diarization)
 
 ## Audio Intelligence 🤖
 [Audio Intelligence Dashboard](audio-intelligence/audio-intelligence-dashboard)  
 [Generate meeting notes with Topic Detection and Auto Chapters](audio-intelligence/meeting-notes)  
 
-## Real-time 💨
+## Real-time 🕒
 [Real-Time Transcription Browser Example with Express.js](real-time/browser-example-expressjs)  
-[Transcribe files in real-time with Python](https://github.com/cx-duan/Realtime-API-Example-python)  
 [Transcribe files in real-time with Node.js](real-time/file-transcription-nodejs)  
 [Video Captions](real-time/captions-demo)
-[Twilio in real-time in Javascript](https://github.com/AssemblyAI/transcribe-twilio-calls-in-real-time)  
 
 ## LeMUR 🐾
 [LeMUR quickstart (Google Colab)](lemur/lemur-quickstart-python.ipynb)  
 [Extract citations from a transcript with OpenAI Embeddings](lemur/transcript-citations.ipynb)
 
-## Related AssemblyAI resources 📚
+## SDKs and Other Resources 📚
 Beyond the code examples here, you can learn about the AssemblyAI API from the following resources:
-- [Read our blog](https://www.assemblyai.com/blog)
-- [Discuss the API in the AssemblyAI Community Forum](https://assemblyai.discourse.group/)
-- [Connect with our Developer Advocates in our Discord channel](https://discord.gg/ZHFkBF4C)
-- [Follow us on X](https://www.twitter.com/AssemblyAI)
-- [Watch our YouTube videos](https://www.youtube.com/@AssemblyAI/featured)
+- [Python SDK](https://github.com/AssemblyAI/assemblyai-python-sdk)
+- [Command Line Interface (CLI)](https://github.com/AssemblyAI/assemblyai-cli)
+- [Discuss the API in the AssemblyAI Discord](https://www.assemblyai.com/discord)
+- [Check out our YouTube Channel](https://www.youtube.com/c/assemblyai)
+- [Follow us on X](https://twitter.com/AssemblyAI)
 
 ***
 If you have any questions, please feel free to reach out to our Support team - support@assemblyai.com!
