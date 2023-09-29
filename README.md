@@ -1,9 +1,9 @@
 # AssemblyAI Cookbook 🧑‍🍳
-The AssemblyAI Cookbook shares example code for accomplishing common tasks with the AssemblyAI API.
+The AssemblyAI Cookbook is a resource of code examples, guides, and tutorials for using the AssemblyAI API. Want to learn more about AssemblyAI? Check out this [product overview video](https://youtu.be/UT1sBCuSJxE)!
 
-To run these examples, you'll need an AssemblyAI account and API key ([create a free account](https://www.assemblyai.com/dashboard/signup)).
+You will need an AssemblyAI account and API key to use these code examples. [Click here](https://www.assemblyai.com/dashboard/signup) to create and account for free.
 
-Most code examples are written in Python/Javascript, though the concepts can be applied in any language.
+Most code examples are written in Python or Javascript, but the concepts contained in these examples can be applied to any language. You can learn more about our various models in features in our [official documentation](https://www.assemblyai.com/docs/).
 
 ## Popular resources 🎊🔥
 [Transcribing from a meeting Zoom/teams/Google Meet](https://www.assemblyai.com/blog/how-to-automatically-transcribe-zoom-calls/)  
