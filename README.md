@@ -6,15 +6,15 @@ You will need an AssemblyAI account and API key to use these code examples. [Cli
 Most code examples are written in Python or Javascript, but the concepts contained in these examples can be applied to any language. You can learn more about our various models in features in our [official documentation](https://www.assemblyai.com/docs/).
 
 ## Core Transcription 🎙️
-[Transcribing an Audio File](core-transcription/transcribe.ipynb)
+[Transcribing an Audio File](core-transcription/transcribe.ipynb)      
 [Transcribe from an AWS S3 Bucket](core-transcription/transcribe-from-s3-bucket)  
 [Generating Subtitles for Videos](core-transcription/subtitles.ipynb)
 
 ## Audio Intelligence 🤖
 [Creating Summarized Chapters from Podcasts](audio-intelligence/auto_chapters.ipynb)  
-[Identifying Hate Speech in Audio and Video Files](audio-intelligence/content_moderation.ipynb)
-[Identifying Highlights in Audio and Video Files](audio-intelligence/key_phrases.ipynb)
-[Identifying Speakers in Audio Recordings](audio-intelligence/speaker_labels.ipynb)
+[Identifying Hate Speech in Audio and Video Files](audio-intelligence/content_moderation.ipynb)     
+[Identifying Highlights in Audio and Video Files](audio-intelligence/key_phrases.ipynb)      
+[Identifying Speakers in Audio Recordings](audio-intelligence/speaker_labels.ipynb)      
 [Summarizing Virtual Meetings](audio-intelligence/summarization.ipynb)
 
 ## Real-time 🕒
