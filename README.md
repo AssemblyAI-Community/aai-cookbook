@@ -6,22 +6,24 @@ You will need an AssemblyAI account and API key to use these code examples. [Cli
 Most code examples are written in Python or Javascript, but the concepts contained in these examples can be applied to any language. You can learn more about our various models in features in our [official documentation](https://www.assemblyai.com/docs/).
 
 ## Core Transcription 🎙️
-[AssemblyAI and Python in 5 Minutes](core-transcription/assemblyai-and-python-in-5-minutes)
+[Transcribing an Audio File](core-transcription/transcribe.ipynb)
 [Transcribe from an AWS S3 Bucket](core-transcription/transcribe-from-s3-bucket)  
-[Speaker Diarization](core-transcription/speaker-diarization)
+[Generating Subtitles for Videos](core-transcription/subtitles.ipynb)
 
 ## Audio Intelligence 🤖
-[Audio Intelligence Dashboard](audio-intelligence/audio-intelligence-dashboard)  
-[Generate meeting notes with Topic Detection and Auto Chapters](audio-intelligence/meeting-notes)  
+[Creating Summarized Chapters from Podcasts](audio-intelligence/auto_chapters.ipynb)  
+[Identifying Hate Speech in Audio and Video Files](audio-intelligence/content_moderation.ipynb)
+[Identifying Highlights in Audio and Video Files](audio-intelligence/key_phrases.ipynb)
+[Identifying Speakers in Audio Recordings](audio-intelligence/speaker_labels.ipynb)
+[Summarizing Virtual Meetings](audio-intelligence/summarization.ipynb)
 
 ## Real-time 🕒
-[Real-Time Transcription Browser Example with Express.js](real-time/browser-example-expressjs)  
 [Transcribe files in real-time with Node.js](real-time/file-transcription-nodejs)  
-[Video Captions](real-time/captions-demo)
+[Using Real-Time Streaming](real-time/real-time.ipynb)
 
 ## LeMUR 🐾
-[LeMUR quickstart (Google Colab)](lemur/lemur-quickstart-python.ipynb)  
-[Extract citations from a transcript with OpenAI Embeddings](lemur/transcript-citations.ipynb)
+[Processing Audio Files with LLMs Using LeMUR](lemur/using-lemur.ipynb)  
+[Extract Citations from a Transcript with OpenAI Embeddings](lemur/transcript-citations.ipynb)
 
 ## SDKs and Other Resources 📚
 Beyond the code examples here, you can learn about the AssemblyAI API from the following resources:
